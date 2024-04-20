@@ -1,4 +1,4 @@
-package sk.vlado;
+package sk.vlado.model;
 
 public enum ActionType {
     ADD,

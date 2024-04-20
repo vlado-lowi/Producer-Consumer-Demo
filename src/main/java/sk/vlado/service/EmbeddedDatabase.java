@@ -1,7 +1,8 @@
-package sk.vlado;
+package sk.vlado.service;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import sk.vlado.model.User;
 
 import java.sql.*;
 import java.util.ArrayList;

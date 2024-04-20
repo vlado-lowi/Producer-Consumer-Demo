@@ -2,6 +2,11 @@ package sk.vlado;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import sk.vlado.model.Action;
+import sk.vlado.model.ActionType;
+import sk.vlado.model.User;
+import sk.vlado.runnable.Consumer;
+import sk.vlado.runnable.Producer;
 
 import java.util.List;
 import java.util.concurrent.ArrayBlockingQueue;

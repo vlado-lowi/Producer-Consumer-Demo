@@ -1,7 +1,8 @@
-package sk.vlado;
+package sk.vlado.service;
 
 
 import org.junit.jupiter.api.*;
+import sk.vlado.model.User;
 
 import java.util.List;
 

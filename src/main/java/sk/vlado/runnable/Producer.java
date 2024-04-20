@@ -1,7 +1,8 @@
-package sk.vlado;
+package sk.vlado.runnable;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import sk.vlado.model.Action;
 
 import java.util.List;
 import java.util.concurrent.BlockingQueue;

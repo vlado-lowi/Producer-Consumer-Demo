@@ -1,6 +1,8 @@
-package sk.vlado;
+package sk.vlado.runnable;
 
 import org.junit.jupiter.api.Test;
+import sk.vlado.model.Action;
+import sk.vlado.model.ActionType;
 
 import java.time.Duration;
 import java.time.Instant;

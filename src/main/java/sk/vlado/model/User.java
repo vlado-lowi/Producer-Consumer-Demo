@@ -1,4 +1,4 @@
-package sk.vlado;
+package sk.vlado.model;
 
 public record User(int id, String uuid, String name) {
     @Override
